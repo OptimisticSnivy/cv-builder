@@ -3,6 +3,13 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  display: flex;
+}
+
+.form {
+  padding: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 .logo {
